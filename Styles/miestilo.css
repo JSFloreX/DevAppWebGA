@@ -1,0 +1,14 @@
+* {
+    margin: 20px;
+    background-color: rgb(119, 180, 199);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    color: #5b46d4;
+}
+
+.colortexto {
+    color: aqua;
+    font-size: 50px;
+}

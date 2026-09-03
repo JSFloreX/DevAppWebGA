@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+
+img{
+    width: 10%;
+    padding-top: 1em;
+}
+
+nav{
+    background-color: rgb(54, 144, 218);
+    text-align: center;
+}
+
+nav a{
+    color: aliceblue;
+    display: inline-block;
+    padding: 0.5em;
+    text-decoration: none;
+    
+}
+
+a{
+    color: rgb(235, 231, 226);
+    display: inline-block;
+    padding: 0.5em;
+    text-decoration: none;
+}
